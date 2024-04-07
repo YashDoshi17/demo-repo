@@ -1,3 +1,5 @@
 # demo-repo
 
-A demo repository!
+A demo repository...
+
+Watching tutorial on Youtube actually
